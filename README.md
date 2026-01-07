@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Kiarie Ngigi<br>
-🔭 I’m currently working on building scalable web applications and machine learning algorithms. <br><br>🔗 I’m looking to collaborate on innovative React components or any projects involving AI integration.<br><br>🪴 I’m currently learning the ins and outs of system design as well as Next.js and Pytorch.<br><br>🛠 Tech Stack<br>Languages: JavaScript, TypeScript, Python<br><br>Frameworks: React, Next.js, Node.js<br><br>Tools: Git, Docker, AWS
+🔭 I’m currently working on building scalable web applications and machine learning algorithms. <br><br>🔗 I’m looking to collaborate on innovative React components or any projects involving AI integration.<br><br>🪴 I’m currently learning the ins and outs of system design as well as Next.js and Pytorch.<br>
 
 
 ## 🌐 Socials:
